@@ -46,7 +46,13 @@ plt.show()
 ```
 
 ## Output:
-![best fit line](sam.png)
+Enter X values: 8,2,11,6,5,4,12,9,6,1
+Enter Y values: 3,10,3,6,8,12,1,4,9,14
+Slope (m): -1.1064189189189189, Intercept (c): 14.08108108108108
+Predicted Y: [ 5.22972973 11.86824324  1.91047297  7.44256757  8.54898649  9.65540541
+  0.80405405  4.12331081  7.44256757 12.97466216]
+  <img width="563" height="432" alt="image" src="https://github.com/user-attachments/assets/03bdb505-7b1f-4a1d-ba48-c3029cd39c04" />
+
 
 
 ## Result:
